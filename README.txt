@@ -1,6 +1,6 @@
-C195 - APPOINTMENT PROGRAM
+APPOINTMENT PROGRAM
 
-•  Ethan Bills - ebills1@wgu.edu - student application version 1.0 - 04/06/2021
+•  Ethan Bills - student application version 1.0 - 04/06/2021
 
 •  IntelliJ Community 2021.1 - Java SE 11.0.10 - JavaFX-SDK-11.0.2
 
